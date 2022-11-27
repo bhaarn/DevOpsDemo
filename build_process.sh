@@ -1,4 +1,4 @@
-cd /Users/bhaarn/Documents/Personal/lecture/BITS/Code/Flutter/DevOpsDemo/android
+cd /Users/bhaarn/Documents/Personal/lecture/BITS/Code/Flutter/DevOpsDemo/ || exit
 ./gradlew assembleDebug
 ./gradlew test
 ./gradlew lint
