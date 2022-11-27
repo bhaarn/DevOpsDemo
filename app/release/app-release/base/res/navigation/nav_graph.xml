@@ -1,0 +1,33 @@
+
+ù
+;
+android*http://schemas.android.com/apk/res/android
+4
+app'http://schemas.android.com/apk/res-auto
+navigation"c
+*http://schemas.android.com/apk/res/androidid@+id/nav_graph"(Ğ„2
+³‚ øid/nav_graph0"v
+'http://schemas.android.com/apk/res-autostartDestination@id/FirstFragment"(¿‡Œø2
+…€ øid/FirstFragment0*Š
+fragment"k
+*http://schemas.android.com/apk/res/androidid@+id/FirstFragment"(Ğ„2
+…€ øid/FirstFragment0"Y
+*http://schemas.android.com/apk/res/androidname com.padhuga.devops.FirstFragment(ƒ€„"ƒ
+*http://schemas.android.com/apk/res/androidlabel@string/first_fragment_label"(€„2'
+%®€Äøstring/first_fragment_label0*¦
+action"
+*http://schemas.android.com/apk/res/androidid+@+id/action_FirstFragment_to_SecondFragment"(Ğ„25
+3µ€ ø)id/action_FirstFragment_to_SecondFragment0"s
+'http://schemas.android.com/apk/res-autodestination@id/SecondFragment"(Ó‚Œø2
+€ øid/SecondFragment0	*
+„fragment"m
+*http://schemas.android.com/apk/res/androidid@+id/SecondFragment"(Ğ„2
+€ øid/SecondFragment0"Z
+*http://schemas.android.com/apk/res/androidname!com.padhuga.devops.SecondFragment(ƒ€„"…
+*http://schemas.android.com/apk/res/androidlabel@string/second_fragment_label"(€„2(
+&•Äøstring/second_fragment_label0*¤
+›action"
+*http://schemas.android.com/apk/res/androidid+@+id/action_SecondFragment_to_FirstFragment"(Ğ„25
+3¶€ ø)id/action_SecondFragment_to_FirstFragment0"q
+'http://schemas.android.com/apk/res-autodestination@id/FirstFragment"(Ó‚Œø2
+…€ øid/FirstFragment0	
